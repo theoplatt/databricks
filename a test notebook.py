@@ -28,4 +28,14 @@ bam
 
 # COMMAND ----------
 
+# MAGIC %ls
+
+# COMMAND ----------
+
+from power import *
+
+print(m_to_nth(3,5))
+
+# COMMAND ----------
+
 
